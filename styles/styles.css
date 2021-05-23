@@ -1,0 +1,46 @@
+header {
+    background-color: black;
+
+}
+
+#logoimg {
+    width: 16vw;
+}
+
+.orangespan {
+    color: #ed9728;
+}
+
+.wordsmith-btn {
+    background-color: #ed9728;
+    border: none;
+}
+
+.wordsmith-btn:hover {
+    background-color: #f18d0d;
+}
+
+#sentiment-title {
+    margin-right: 2rem;
+}
+
+#meterdiv {
+    height: 1rem;
+    width: 18vw;
+    border: 1px solid black;
+    padding: 1px;
+    margin: 0;
+    background-color: lightgrey;
+    font-size: 0;
+}
+
+#meterbar {
+    height: 100%;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding-bottom: 5rem;
+}

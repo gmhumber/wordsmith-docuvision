@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4" : {
+          "App\\" : "classes/"
+        }
+      },
+    "require": {
+        "google/apiclient": "2.7",
+        "google/apiclient-services": "^0.175.0",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
